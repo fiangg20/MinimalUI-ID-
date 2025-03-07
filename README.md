@@ -192,4 +192,10 @@ end
   1. ScreenGui ada di StarterGui
   2. Parent component sudah benar
   3. Visible property di-set ke true
+
+---
+
+## You can translate this page if you don't know.
+
+## Fian_gg 🇮🇩
   
