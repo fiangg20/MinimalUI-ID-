@@ -9,7 +9,7 @@ Library UI minimalis untuk Roblox dengan animasi dan sistem theme yang mudah dik
 
 ```lua
 -- Letakkan kode library di sini
-local MinimalUI = { ... }
+local MinimalUI = loadstring(game:HttpGet('https://raw.githubusercontent.com/fiangg20/MinimalUI-ID-/refs/heads/main/Lib.lua'))()
 ```
 
 ---
